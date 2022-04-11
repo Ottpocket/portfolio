@@ -7,7 +7,7 @@
 [1st Place Solution to Kaggle March 2022 Tabular](https://github.com/Ottpocket/March-2022-1st-Place-Solution)
 
 Using a specialized features selector I was able to win the March 2022 Tabular Playground Series on Kaggle.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/name.png?raw=true"/>
 
 ---
 [Exploration of Learner Data with VAEs](https://github.com/Ottpocket/Exploration-of-Learner-Data-with-VAEs)
