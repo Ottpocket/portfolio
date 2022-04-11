@@ -13,7 +13,7 @@ Using a specialized features selector I was able to win the March 2022 Tabular P
 [Exploration of Learner Data with VAEs](https://github.com/Ottpocket/Exploration-of-Learner-Data-with-VAEs)
 
 Using Variational AutoEncoders, I was able to disentangle student knowledge from student test scores.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fig5.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
