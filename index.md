@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[1st Place Solution to Kaggle March 2022 Tabular](https://github.com/Ottpocket/March-2022-1st-Place-Solution)
+Using a specialized features selector I was able to win the March 2022 Tabular Playground Series on Kaggle.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
