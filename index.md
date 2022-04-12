@@ -16,7 +16,7 @@ Using Variational AutoEncoders, I was able to disentangle student knowledge from
 <img src="images/fig5.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[University of Liverpool Ion Switching Competition](https://github.com/Ottpocket/Ion_Switching)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
