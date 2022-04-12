@@ -17,6 +17,7 @@ Using Variational AutoEncoders, I was able to disentangle student knowledge from
 
 ---
 [University of Liverpool Ion Switching Competition](https://github.com/Ottpocket/Ion_Switching)
+
 For this competition, I was tasked with predicting the number of ion channels open every ten-thousandth of a second given electrophysiological signal data for that time stamp.  I used wavenet with a dual loss for regularization to predict this information.
 
 <img src="images/Ion_Graph.png?raw=true"/>
