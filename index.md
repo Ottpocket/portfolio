@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-[Link to Memory](./Memory.html).
 
 [1st Place Solution to Kaggle March 2022 Tabular](https://github.com/Ottpocket/March-2022-1st-Place-Solution)
 
