@@ -2,13 +2,13 @@
 
 Memory techniques are a particular interest of mine.  The websites below are a place to store some of the things I have accumulated in my mind.
 
-[Collection of Memory Palaces](./Misc/Memory/Memory_Palaces.html)
+[Collection of Memory Palaces](./Memory_Palaces.html)
 
-[00-99 Number PAO](./Misc/Memory/00-99PAO.html).
+[00-99 Number PAO](./00-99PAO.html).
 
-[Mandarin Sound PAO](./Misc/Memory/Mandarin_PAO.html)
+[Mandarin Sound PAO](./Mandarin_PAO.html)
 
-[English Sound PAO](./Misc/Memory/English_PAO.html)
+[English Sound PAO](./English_PAO.html)
 
 ### General Info
 In Mary Carruthers' **The Book of Memory**, she points out that for hundreds of years in Medieval Europe, memory techniques were a standard part of the curriculum.  Students were taught from an early age how best to use their minds to memorise so that they would not forget their lessons.  Moreover, all monks were expected to memorise the Psalms within 6 moths to 2 years upon entering the monastery.  Speaking the Psalms takes over 3 hours!  
