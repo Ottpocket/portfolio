@@ -20,22 +20,13 @@ every Chinese base sound has a character, all endings have a location, and each 
 |**g** | gollum | | **ji** | Jin Yang | | **lu** | Luke Skywalker
 |**k** | King K Rule | | **qi** | Allison Brie | | **gu** | Gelatinous Cube |
 |**h** | Harry Potter| | **xi** | Xi Jinping | | **ku** | Bradley Cooper |
-|**
-|
-|**
-|**
-|**
-|**
-|**Ow**lbear|||
-|**O**pra|||
-|**P**rincess Peach|||
-|**R**hachmaninov|||
-|**Sh**amwow guy|||
-|**S**pike Speagle|||
-|**Th**elma|||
-|**T**iger Woods|||
-|**U**ma Thurman|||
-|**W**ym Hoff|||
-|**Y**uri on ice|||
-|**Z**eus|||
+|**zh**| Bo Zhang | | | | | **hu** | Saddam Hussein| 
+|**ch**| Charlie Day | | **yu** | yoda | | **zhu** | Larry David |
+|**sh** | Sheldon Cooper | | **nu** | Neo | | **chu** | Chewbaca |
+|**r** | Reagan (mob Psycho) | | **lu** | Luigi | | **shu** | Shaq |
+|**z** | Zuko | | **ju** | Rabbi (from wedding) | | **ru** | Russel Brand |
+|**c** | Aziz Ansari | | **qu** | Pikachu | | **zu** | Zuckerberg |
+|**s** | snape | | **xu** | Ray | | **cu** | Cupid |
+|**silent**| Lego Batman | | | | | **su**| Superman|
+
 [back](./Misc/Memory.html)
