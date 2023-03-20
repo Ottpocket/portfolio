@@ -1,4 +1,3 @@
-https://mullenmemory.com/memory-palace/chinese-system-part-2
 https://chinese.yabla.com/chinese-pinyin-chart.php
 
 # Mullen Mandarin Chinese Character-Location System 
@@ -8,25 +7,25 @@ every Chinese base sound has a character, all endings have a location, and each 
 
 #### Initial Character 
 
-| Person | Action | Object|
-|  -------|--------|-------|
-| **A**my Adams | crawling over table  | alien tentacle |
-| **A**dam Sandler | angry golfing | golf club |
-| Muhamed **A**li | floating and stinging  | boxing glove  |
-| **B**ob Dylan| playing harmonica in one man band  | rolling stone|
-|**Ch**arly Chaplin | Moving gigantic cog| pet monkey|
-|**K**ing K Rule | skipping| giant cannonball|
-|**E**vil Kenivel | Jumping motorcycle | Grand Canyon|
-|**U**ncle Aaron (Homecoming)| spray painting| punching bag|
-|**F**orest Gump| throwing fishing net| box of chocolates|
-|**G**ary Larson| Drawing on easel| easel|
-|**Eye** of Sauron| flashing blinding light| the one ring|
-|**Ing**red Michaelson|being early 2010s superhip| early 2010s hip clothing|
-|Cousin **I**sabel | giving giant injection | tea cup|
-|**J**ames bond| driving Astin Martin| Astin Martin|
-|**L**eslie Knope | walking on red carpet in ice | red carpet|
-|**M**ario | jumping| mushroom |
-|**N**apoleon Dynamite| throwing food at Tina| Tina|
+| Pinyin | Character | | Pinyin | Character |  | Pinyin | Character | 
+|  -------|--------|-----|------|-------|------|------|------|
+| **b** | Beavis  |          | ***y*** | Enrique Iglesias |  | **w** | wizard (Gandalf) |
+| **p** | Princess Peach |   | **bi**| Beyonce|  | **bu**| Buzz Lightyear |
+| **m** | Mario  | | **pi** | Pam Beasley | | **pu** | Puri Puri Prisoner|
+| **f**| family guy | | **mi** | Michael Scott | | **mu** | Cow (moo)|
+|**d** | donkey kong | | **di**| Sweet Dee | | **fu** | furby|
+|**t** | trump | | **ti** | tina Fey | | **du** | Dumbledore |
+|**n** | ness | | **ni** | Nick Fury | | **tu** | Natalie Portman (tutu)|
+|**l** | Legolas | | **li** | Leslie Knope | | **nu** | n00b (videogame Dubkey)|
+|**g** | gollum | | **ji** | Jin Yang | | **lu** | Luke Skywalker
+|**k** | King K Rule | | **qi** | Allison Brie | | **gu** | Gelatinous Cube |
+|**h** | Harry Potter| | **xi** | Xi Jinping | | **ku** | Bradley Cooper |
+|**
+|
+|**
+|**
+|**
+|**
 |**Ow**lbear|||
 |**O**pra|||
 |**P**rincess Peach|||
