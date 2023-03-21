@@ -29,4 +29,4 @@ every Chinese base sound has a character, all endings have a location, and each 
 |**s** | snape | | **xu** | Ray | | **cu** | Cupid |
 |**silent**| Lego Batman | | | | | **su**| Superman|
 
-[back](./Misc/Memory.html)
+[back](./Memory.html)
