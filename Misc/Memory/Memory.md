@@ -6,7 +6,7 @@ Memory techniques are a particular interest of mine.  The websites below are a p
 
 [00-99 Number PAO](./00-99PAO.html).
 
-[Mandarin Sound PAO](./Mandarin_PAO.html)
+[Mandarin System](./Mandarin_System.html)
 
 [English Sound PAO](./English_PAO.html)
 
