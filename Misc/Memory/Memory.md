@@ -2,8 +2,6 @@
 
 Memory techniques are a particular interest of mine.  The websites below are a place to store some of the things I have accumulated in my mind.
 
-[Collection of Memory Palaces](./Memory_Palaces.html)
-
 [00-99 Number PAO](./00-99PAO.html).
 
 [Mandarin System](./Mandarin_System.html)
