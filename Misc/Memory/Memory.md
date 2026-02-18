@@ -1,8 +1,3 @@
----
-layout: default
-title: Portfolio
----
-
 # Memory Techniques 
 
 Memory techniques are a particular interest of mine.  The websites below are a place to store some of the things I have accumulated in my mind.
