@@ -1,3 +1,8 @@
+---
+layout: default
+title: Portfolio
+---
+
 https://chinese.yabla.com/chinese-pinyin-chart.php
 
 # Mullen Mandarin Chinese Character-Location System 

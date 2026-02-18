@@ -1,3 +1,8 @@
+---
+layout: default
+title: Portfolio
+---
+
 # Palaces
 
 Each palace will have 20 or 40 loci within 
