@@ -13,6 +13,10 @@ Memory techniques are a particular interest of mine.  The websites below are a p
 
 [English Sound PAO](./English_PAO.html)
 
+[Cards PAO](./Cards)
+
+[Memory Palaces](./palaces)
+
 ### General Info
 In Mary Carruthers' **The Book of Memory**, she points out that for hundreds of years in Medieval Europe, memory techniques were a standard part of the curriculum.  Students were taught from an early age how best to use their minds to memorise so that they would not forget their lessons.  Moreover, all monks were expected to memorise the Psalms within 6 moths to 2 years upon entering the monastery.  Speaking the Psalms takes over 3 hours!  
 
