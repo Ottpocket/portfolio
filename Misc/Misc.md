@@ -3,13 +3,13 @@
 Hey all, attached are some disjointed pages that I have cobbled together.  Enjoy!
 
 #### Memory
-[Memory](./Memory/Memory)
+[Memory](./Memory/Memory.html)
 
 #### Data Science Portfolio
-[Portfolio](..)
+[Portfolio](../index.htlm)
 
 #### DnD
-[DND](./Dnd/DnD)
+[DND](./Dnd/DnD.html)
 
 #### Lists
-[Lists](./lists/lists)
+[Lists](./lists/lists.html)
