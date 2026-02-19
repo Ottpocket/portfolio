@@ -9,7 +9,7 @@ Hey all, attached are some disjointed pages that I have cobbled together.  Enjoy
 [Portfolio](../)
 
 #### DnD
-[DND](./Dnd/DnD.html)
+[DND](./dnd/DnD.html)
 
 #### Lists
 [Lists](./lists/)
