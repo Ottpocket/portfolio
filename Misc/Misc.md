@@ -6,10 +6,10 @@ Hey all, attached are some disjointed pages that I have cobbled together.  Enjoy
 [Memory](./Memory/Memory.html)
 
 #### Data Science Portfolio
-[Portfolio](../index.htlm)
+[Portfolio](../)
 
 #### DnD
-[DND](./Dnd/DnD.html)
+[DND](./Dnd/)
 
 #### Lists
-[Lists](./lists/lists.html)
+[Lists](./lists/)
