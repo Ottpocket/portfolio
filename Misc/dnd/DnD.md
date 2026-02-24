@@ -6,7 +6,7 @@ Just some stuff about Dungeoning the Dragon
 [failed Careers](./failed_careers.html)
 
 #### Corporate Adventure
-[DMV Campaign](./dmv_campaign.htlm)
+[DMV Campaign](./dmv_campaign.html)
 
 ### New Campaign Ideas
-[Campaign Ideas](./campaign_ideas.md)
+[Campaign Ideas](./campaign_ideas.html)
